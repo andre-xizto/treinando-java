@@ -1,4 +1,4 @@
-package dev.buskopan.hierarquia_vericulos;
+package dev.buskopan.hierarquia_veiculos;
 
 public class HierarquiaVeiculos {
     public static void main(String[] args) {
