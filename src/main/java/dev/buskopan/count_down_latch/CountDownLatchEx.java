@@ -31,6 +31,8 @@ public class CountDownLatchEx {
 
         };
 
+        float x = 5;
+
         executor.execute(r1);
         executor.execute(r2);
         executor.execute(r3);
